@@ -1,0 +1,19 @@
+{
+  "name": "nodejsindo",
+  "version": "1.0.0",
+  "description": "tutorial node js indonesia",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Belajar Node",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.1"
+  }
+}
